@@ -88,9 +88,8 @@ This project is licensed under the MIT License.
 
 For questions or collaboration:
 
-* Email: [your-email@example.com](mailto:your-email@example.com)
-* GitHub: https://github.com/your-username
+* Email: muragijimanaaliane9@gmail.com
+* GitHub: https://github.com
+* Name:muragijimanaaliane
 
----
-
-💧 *Efficient irrigation is key to sustainable agriculture.*
+💧Ihave added lcd to display the values of the sensor 
